@@ -1,0 +1,17 @@
+
+section{
+    margin-top: 124px;
+    margin-left: 20%;
+    display: grid;
+    grid-column: auto;
+}
+
+.tx{     
+    padding: 20px;
+    display: flex;   
+}
+
+.formEntrada{
+    background-color: #ffffff;
+    border-radius: 30px;
+}
